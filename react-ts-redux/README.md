@@ -66,4 +66,8 @@ Explore the codebase, experiment with adding products to the cart, and observe h
 
 Special thanks to Redux Toolkit for providing powerful utilities for Redux state management, including Redux Thunk for handling asynchronous actions.
 
+## Live Demo
+
+You can try the live demo of site [here](https://react-ts-redux.netlify.app/)
+
 Happy shopping with Redux Thunk!

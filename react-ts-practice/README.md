@@ -10,6 +10,7 @@ This project is a TypeScript React exercise that covers various topics such as s
   - [Folder Structure](#folder-structure)
   - [Features](#features)
   - [Contributing](#contributing)
+  - [Live Demo](#live-demo)
 
 ## Getting Started
 
@@ -39,3 +40,7 @@ The project is structured as follows:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+## Live Demo
+
+You can try the live demo of site [here](https://react-ts-exercise.netlify.app/)

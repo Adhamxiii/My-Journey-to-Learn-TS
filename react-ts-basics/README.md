@@ -55,4 +55,8 @@ Feel free to explore the codebase, experiment with TypeScript syntax, and contin
 
 Special thanks to the TypeScript and React communities for their valuable resources and documentation.
 
+## Live Demo
+
+You can try the live demo of site [here](https://react-ts-basics-roic.vercel.app/)
+
 Happy coding!
